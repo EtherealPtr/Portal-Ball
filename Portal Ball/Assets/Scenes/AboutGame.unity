@@ -672,7 +672,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The objective of the game is to guide the ball into the portals. The cubes
+  m_Text: The objective of the game is to guide the ball into the portals. The Icospheres
     can be collected and will lead you to the portals.
 --- !u!222 &1573872871
 CanvasRenderer:
